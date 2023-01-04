@@ -1,9 +1,13 @@
 
 # CoinMarketCap Cryptocurrency Tracker 
 
+
+![React App (2)](https://user-images.githubusercontent.com/20938382/210664427-77d429f2-951e-496d-b482-b05e6ce2c8dd.png)
+
 A simple and handy tool for crypto currency investors to track the price, marketcap, and predict possible future price of the top 10 crypto currency.
 
 URL: https://stellar-gecko-5924b4.netlify.app/
+
 Video: https://www.awesomescreenshot.com/video/13743059?key=611f394b5b72876c42d4a90b56003727
 
 ## Description
