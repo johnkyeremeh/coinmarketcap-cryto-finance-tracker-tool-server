@@ -24,11 +24,11 @@ This tool allows users to easily track the performance of the top crypto currenc
 
 ### Installing
 
-## Client 
+#### Client 
 * git clone client: https://github.com/johnkyeremeh/coinmarketcap-cryto-finance-tracker-tool-client.git
 
 
-# Available Scripts
+##### Available Scripts
 
 In the project directory, you can run:
 
@@ -45,12 +45,12 @@ You may also see any lint errors in the console.
 Server data can be viewed in 
 Open [http://localhost:4000](http://localhost:4000) to view it in your browser.
 
-### `npm test`
+##### `npm test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+##### `npm run build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -62,15 +62,15 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 
 
-## Server 
+#### Server 
 * git clone server: https://github.com/johnkyeremeh/coinmarketcap-cryto-finance-tracker-tool-server
 
 
-# Available Scripts
+##### Available Scripts
 
 In the project directory, you can run:
 
-# `nodemon server.js`
+### `nodemon server.js`
 
 Copy the repo
 Runs the app in the development mode.\
@@ -79,7 +79,7 @@ Open [http://localhost:4000/api](http://localhost:4000/api) to view api routes i
 The page will reload when you make changes.\
 
 
-## Authors
+#### Authors
 
 Contributors names and contact info
 
