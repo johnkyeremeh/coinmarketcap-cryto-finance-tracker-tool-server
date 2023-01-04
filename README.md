@@ -3,6 +3,8 @@
 
 A simple and handy tool for crypto currency investors to track the price, marketcap, and predict possible future price of the top 10 crypto currency.
 
+URL: https://stellar-gecko-5924b4.netlify.app/
+
 ## Description
 
 This tool allows users to easily track the performance of the top crypto currency on CoinMarketCap by displaying their current price and marketcap, as well as providing further detailed information for each cryptocurrency.
